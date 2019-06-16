@@ -1,1 +1,1 @@
-print("helloeqrgqeqg");
+print("hello");
