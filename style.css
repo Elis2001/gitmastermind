@@ -1,11 +1,78 @@
-*{
+* {
 	margin: 0 auto;
 	padding: 0;
 }
 
+.body{
+	font-family: 'Lato', sans-serif;
+}
 .header{
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.17);
 border: 1px solid #ececec;
 background-color: #ffffff;
-height: 100px;
+height: 116px;
 }
+.container{
+	width: 1300px;
+	margin: 0 auto;
+	height: 100%;
+}
+.Account{
+text-decoration: none;
+color: #ffffff;
+font-size: 15px;
+font-weight: 400;
+background-color: #f16d7f;
+letter-spacing: 0.38px;
+line-height: 38px;
+padding-right: 19px;
+padding-left: 19px;
+}
+.logo{
+	text-decoration: none;
+	color: #222222;
+font-size: 27px;
+font-weight: 300;
+text-transform: uppercase;
+display: flex;
+align-items: center;
+margin-right: 13px;
+}
+.D{
+font-weight: 300;
+letter-spacing: 0.68px;
+color: #f16d7f;
+font-weight: 400;
+letter-spacing: 0.68px;
+
+}
+.formbrowes{
+color: #222222;
+font-size: 14px;
+font-weight: 300;
+margin-left: 37px;
+letter-spacing: 0.35px;
+}
+a{
+	text-decoration: none;
+
+}
+.headercontent{
+	display: flex;
+    justify-content: space-between;
+    height: 100%;
+}
+.headerblock{
+	display: flex;
+	align-items: center;
+	
+
+}
+.headerform{
+	display: flex;
+	align-items: center;
+}
+.korz{
+	    margin-right: 26px;
+}
+
