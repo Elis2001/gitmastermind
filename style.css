@@ -1,5 +1,5 @@
 * {
-	margin: 0 auto;
+	margin: 0;
 	padding: 0;
 }
 
@@ -16,6 +16,7 @@ height: 116px;
 	width: 1300px;
 	margin: 0 auto;
 	height: 100%;
+	
 }
 .Account{
 text-decoration: none;
@@ -37,6 +38,7 @@ text-transform: uppercase;
 display: flex;
 align-items: center;
 margin-right: 13px;
+margin-left: 70px;
 }
 .D{
 font-weight: 300;
@@ -65,6 +67,7 @@ a{
 .headerblock{
 	display: flex;
 	align-items: center;
+	margin-right: 70px;
 	
 
 }
@@ -75,4 +78,419 @@ a{
 .korz{
 	    margin-right: 26px;
 }
+.menu{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 51px;
 
+}
+.menulink{
+color: #222222;
+font-size: 14px;
+font-weight: 700;
+text-transform: uppercase;
+list-style-type: none;
+padding: 20px;
+}
+.promo{
+	height: 613px;
+	background-color: #e8e8e8;
+}
+.promo__h4{
+font-size: 40px;
+font-weight: 700;
+text-transform: uppercase;
+line-height: 33px;
+}
+.FASHION{
+font-size: 40px;
+font-weight: 700;
+color: #f16d7f;
+letter-spacing: 1px;
+}
+.promo__h3{
+font-size: 60px;
+letter-spacing: 1.5px
+font-weight: 700;
+line-height: 45px;
+margin-bottom: 15px;
+}
+.promo__text{
+	border-left: 12px solid #f16d7f;
+	padding-left: 12px;
+	margin-left: 70px;
+}
+.container__promo__content{
+	height: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 45px;
+    background-image: url(photo/Layer_24.jpg);
+    background-position: 0 -52px;
+}
+
+.offer__item{
+	width: 560px;
+}
+.offer__item_big1{
+	height: 542px;
+	background-image: url(photo/Layer_30.png);
+	background-repeat: no-repeat;
+}
+.offer__item_mini1{
+	height: 261px;
+	background-image: url(photo/Banner.png);
+	background-repeat: no-repeat;
+
+}
+.offer__item_big2{
+	height: 542px;
+	background-image: url(photo/ban2.png);
+}
+.offer__item_mini2{
+	height: 261px;
+	background-image: url(photo/ban.png);
+}
+.container2{
+display: flex;
+justify-content: center;
+margin-top: 100px;
+
+}
+.offer__item_big1{
+	margin-bottom: 20px;
+}
+.offer__item_mini1{
+	margin-bottom: 20px;
+}
+.offer__item_big2{
+	margin-bottom: 20px;
+}
+.offer__item_mini2{
+	margin-bottom: 20px;
+}
+.offer__content{
+	margin-left: 20px;
+}
+.offer__acz{
+	/* Style for "Rectangle" */
+
+background-color: #ffffff;
+text-align: center;
+width: 175px;
+height: 82px;
+
+}
+.HOT{
+color: #222222;
+font-size: 18px;
+font-weight: 400;
+text-transform: uppercase;
+/* Text style for "hOT dEAL" */
+letter-spacing: 0.45px;
+}
+.FOR{
+/* Text style for "FOR MEN" */
+color: #f16d7f;
+font-size: 30px;
+letter-spacing: 0.75px;
+}
+.LUXIROUS{
+	/* Style for "Rectangle" */
+    width: 235px;
+    height: 60px;
+background-color: #ffffff;
+text-align: center;
+}
+.h{
+color: #222222;
+font-size: 18px;
+font-weight: 400;
+text-transform: uppercase;
+/* Text style for "LUXIROUS &" */
+letter-spacing: 0.45px;
+}
+.ACCESORIES{
+color: #f16d7f;
+font-size: 30px;
+letter-spacing: 0.75px;
+}
+.com{
+	/* Style for "Rectangle" */
+width: 162px;
+height: 82px;
+background-color: #ffffff;
+}
+.sk{
+	color: #222222;
+font-size: 18px;
+font-weight: 400;
+text-transform: uppercase;
+/* Text style for "30% offer" */
+letter-spacing: 0.45px;
+text-align: center;
+}
+.women{
+	/* Text style for "women" */
+color: #f16d7f;
+font-size: 30px;
+letter-spacing: 0.75px;
+text-align: center;
+}
+.com2{
+	/* Style for "Rectangle" */
+width: 180px;
+height: 82px;
+background-color: #ffffff;
+text-align: center;
+}
+.NEW{
+	color: #222222;
+font-size: 18px;
+font-weight: 400;
+text-transform: uppercase;
+/* Text style for "new arriva" */
+letter-spacing: 0.45px;
+}
+.KIDS{
+	color: #f16d7f;
+font-size: 30px;
+letter-spacing: 0.75px;
+}
+
+.f{
+	color: #222222;
+font-size: 30px;
+font-weight: 700;
+line-height: 54px;
+/* Text style for "Fetured It" */
+letter-spacing: 0.75px;
+
+display: flex;
+	justify-content: center;
+
+
+}
+.Shop{
+color: #9f9f9f;
+font-size: 14px;
+font-weight: 400;
+line-height: 54px;
+/* Text style for "S, hop for" */
+letter-spacing: 0.35px;
+display: flex;
+justify-content: center;
+
+
+}
+
+.product__con{
+	/* Style for "Layer 2" */
+/* Style for "Layer 2" */
+width: 261px;
+height: 279px;
+
+}
+.product__content1{
+	display: flex;
+	justify-content: center;
+	margin-top: 60px;
+	
+}
+.Mango{
+	/* Style for "Mango  Peo" */
+width: 157px;
+height: 11px;
+color: #222222;
+font-size: 13px;
+font-weight: 400;
+text-transform: uppercase;
+text-align: center;
+}
+.mon{
+	/* Style for "$52.00" */
+width: 50px;
+height: 15px;
+color: #f16d7f;
+font-size: 16px;
+font-weight: 700;
+text-transform: uppercase;
+text-align: center;
+}
+
+.product__content_2{
+	
+	margin-left: 32px;
+}
+.Mango2{
+	/* Style for "Mango  Peo" */
+	/* Style for "Mango  Peo" */
+width: 157px;
+height: 11px;
+color: #222222;
+font-size: 13px;
+font-weight: 400;
+text-transform: uppercase;
+}
+.mon2{
+	/* Style for "$52.00" */
+width: 50px;
+height: 15px;
+color: #f16d7f;
+font-size: 16px;
+font-weight: 700;
+text-transform: uppercase;
+}
+.product__content_3{
+	margin-left: 32px;
+}
+.product__content_4{
+	margin-left: 32px;
+}
+.prod__w{
+width: 261px;
+height: 279px;
+
+}
+.product__content2{
+	display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.prod__cop_2{
+margin-left: 32px;
+}
+.prod__cop_3{
+margin-left: 32px;
+}
+.prod__cop_4{
+margin-left: 32px;
+}
+.acc{
+	/* Style for "Browse All" */
+width: 145px;
+height: 11px;
+color: #ffffff;
+font-size: 16px;
+font-weight: 700;
+line-height: 54px;
+/* Text style for "B, rowse A" */
+letter-spacing: 0.4px;
+}
+.fig{
+	margin-top: 140px;
+	text-align: center;
+
+}
+.acc{
+width: 145px;
+height: 11px;
+color: #ffffff;
+font-size: 16px;
+font-weight: 700;
+line-height: 54px;
+/* Text style for "B, rowse A" */
+letter-spacing: 0.4px;
+background-color: #f16d7f;
+padding: 10px;
+
+}
+.vad{
+	display: flex;
+    justify-content: center;
+    margin-top: 113px;
+}
+.wer{
+	display: flex;
+	
+	background-color: #ccc;
+	/* Style for "Layer 41" */
+width: 1345px;
+height: 438px;
+background-image: url(photo/Layer_41.png);
+margin-top: 100px;
+}
+.text3{
+	/* Style for "“Vestibulu" */
+
+margin-top: 60px;
+    margin-left: 240px;
+}
+.in{
+	/* Style for "“Vestibulu" */
+float: left;
+}
+.ves{
+/* Style for "“Vestibulu" */
+width: 386px;
+color: #222224;
+font-size: 16px;
+font-style: italic;
+line-height: 26px;
+/* Text style for "“, Vestibu" */
+letter-spacing: 0.4px;
+}
+.Bin{
+	
+    margin-left: 100px;
+    
+color: #f16d7f;
+font-size: 16px;
+font-weight: 700;
+/* Text style for "Bin Burhan" */
+font-weight: 700;
+letter-spacing: 0.4px;
+line-height: 26px;
+}
+.Bar{
+	margin-left: 100px;
+	color: #222224;
+font-size: 12px;
+font-weight: 300;
+letter-spacing: 0.3px;
+line-height: 14px;
+}
+.text4{
+	text-align: center;
+    margin-top: 60px;
+}
+.OUR{
+	margin-left: 220px;
+	/* Text style for "FOR OUR NE" */
+letter-spacing: 0.35px;
+line-height: 24px;
+}
+.SUBSCRIBE{
+	margin-left: 220px;
+	color: #222224;
+font-size: 14px;
+font-weight: 400;
+/* Text style for "Subscribe" */
+font-size: 24px;
+letter-spacing: 0.6px;
+line-height: 54px;
+text-transform: uppercase;
+}
+.fer{
+	height: 460px;
+	width: 1345px;
+	background-color: #ffffff;
+}
+.cl{
+	/* Style for "Objectivel" */
+width: 427px;
+
+color: #898989;
+font-size: 14px;
+font-weight: 300;
+line-height: 24px;
+/* Text style for "Objectivel" */
+letter-spacing: 0.35px;
+    margin-left: 228px;
+    margin-top: 42px;
+}
+.fr{
+	margin-top: 130px;
+	width: 1345px;
+}
